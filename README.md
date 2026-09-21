@@ -9,4 +9,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/TanwarRahul21/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
+## Math
+|  |
+| ------- |
+| [2235-add-two-integers](https://github.com/TanwarRahul21/leetcode-solutions/tree/master/2235-add-two-integers) |
 <!---LeetCode Topics End-->
